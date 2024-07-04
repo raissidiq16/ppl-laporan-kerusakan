@@ -19,7 +19,7 @@ Dashboard
           class="text-gray-800 text-sm font-semibold px-4 py-4 mb-8 bg-white rounded-lg shadow-md dark:bg-gray-800 dark:text-gray-400 ">
 
           <h2>Nama : {{ $ite->name }}</h2>
-          <h2 class="mt-4">NIK : {{ $ite->user_nik }}</h2>
+          <h2 class="mt-4">NIM : {{ $ite->user_nik }}</h2>
           <h2 class="mt-4">No Telepon : {{ $item->user->phone }}</h2>
           <h2 class="mt-4">Tanggal : {{ $ite->created_at->format('l, d F Y - H:i:s') }}</h2>
           <h2 class="mt-4">Status : 

@@ -26,7 +26,7 @@
       <thead class="thead">
         <tr>
           <th scope="col">No</th>
-          <th scope="col">NIK</th>
+          <th scope="col">NIM</th>
           <th scope="col">Nama</th>
           <th scope="col">Pengaduan</th>
           <th scope="col">Tanggal</th>
